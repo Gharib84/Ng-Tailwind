@@ -1,15 +1,23 @@
 {
   "type": "module",
-  "name": "ng-tailwind-md",
+  "name": "ng-tailwind-strap",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "An Angular CLI package that allows you to choose between TailwindCss and Bootstrap design libraries.",
+  "main": "install.js",
+  "bin": {
+    "ng-tailwind-strap": "./index.js"
+  },
   "scripts": {
+    "start": "node install.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "Angular",
+    "TailwindCss",
+    "Bootstrap"
+  ],
+  "author": "Gharib",
+  "license": "MIT",
   "dependencies": {
     "bootstrap": "^5.2.3",
     "inquirer": "^8.2.5",
