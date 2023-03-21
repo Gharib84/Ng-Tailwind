@@ -29,7 +29,7 @@ needed
 # :nazar_amulet: Contributing
 Contributions are welcome! If you encounter any bugs or issues, please open an issue on [GitHub Pages](https://github.com/Gharib84/Ng-Tailwind)
 
-# :eu::european_union: License
+# :eu: License
 This package is licensed under the MIT license. See LICENSE for more information.
 
 Feel free to customize this README template to fit your specific package needs. Don't forget to include any necessary installation or usage instructions, along with any notable features or benefits of your package.
