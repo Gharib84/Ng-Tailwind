@@ -12,5 +12,6 @@ Angular Tailwind Bootstrap is a package that helps users to easily install Angul
 # :wrench: Installation
 To use this package, simply install it via NPM:
 ```
+npm i ng-tailwind-strap
 
 ```
