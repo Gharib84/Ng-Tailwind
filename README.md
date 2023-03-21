@@ -18,7 +18,10 @@ npm i ng-tailwind-strap
 
 # :gear: Usage
 After installing the package,You able to use Tailwind css Or boottrap in your component without any configuration
-needed
+needed so you should run this command 
+```
+npx ng-tailwind-strap
+```
 
 # :books: Features
 + Simplifies the process of setting up an Angular project with Tailwind CSS or Bootstrap.
