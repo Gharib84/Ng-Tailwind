@@ -15,3 +15,4 @@ To use this package, simply install it via NPM:
 npm i ng-tailwind-strap
 
 ```
+
