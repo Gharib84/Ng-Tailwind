@@ -1,11 +1,11 @@
 {
   "type": "module",
   "name": "ng-tailwind-strap",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "An Angular CLI package that allows you to choose between TailwindCss and Bootstrap design libraries.",
   "main": "install.js",
   "bin": {
-    "ng-tailwind-strap": "./index.js"
+    "ng-tailwind-strap": "./install.js"
   },
   "scripts": {
     "start": "node install.js",
